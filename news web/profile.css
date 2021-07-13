@@ -1,0 +1,53 @@
+#big-div {
+    background-color:wheat ;
+    width: 420px;
+    height: 70px;
+    border: 1.5px salmon black;
+    margin: 0 auto;
+    
+    margin-bottom: -16px;
+}
+#big-profile {
+    padding-top: 13px;
+    padding-bottom: 15px;
+
+
+}
+
+#big2-div {
+    background-color: wheat;
+    width: 420px;
+    min-height: 450px;
+    margin: 0 auto;
+    
+}
+
+
+#profile {
+    padding: 8PX 15px 15px 15px ;
+    font-size: 23px;
+    background-color:white;
+    width: 160px;
+    height: 15px;
+    border:1px salmon red;
+    border-radius: 10%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+
+
+
+.list-div {
+ width: 375px;
+}
+
+.list{
+ padding: 10px;
+ margin: 15px;
+ font-size: 17px;
+ font-family: monospace;
+ color:black;
+}
+
+

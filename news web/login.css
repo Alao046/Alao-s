@@ -1,0 +1,42 @@
+#big-div {
+    background-color: wheat;
+    height: 210px;
+    width: 400px;
+    padding-top: 55px;
+    border: 1px solid rgb(121, 67, 67);
+    border-radius: 80%;
+}
+#biggest-div {
+    padding-top: 150px;
+}
+
+.divs {
+    padding:20PX;
+    height: 25px;
+    width: 260px;
+
+
+
+}
+
+#login-div {
+    padding:22px 0px 22px 0px;
+    width: 120px;
+    
+}
+
+.details {
+    width: 270px;
+    height: 25px;
+    font-family: monospace;
+    border:1px solid black;
+
+}
+
+#login {
+    width: 120px;
+    font-size: 18px;
+   font-family: 'Times New Roman', Times, serif;
+   font-variant: small-caps;
+   background-color: red
+}
