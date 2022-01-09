@@ -1,0 +1,88 @@
+body {
+    background-color: wheat;
+}
+
+#big-div {
+    width: 400px;
+    height: 500px;
+    background-color: white;
+    box-shadow: 10px 10px 5px red;
+    border-radius: 5%;
+    /* position: relative; top: 50px; left: 35%; */
+
+}
+
+#header-div {
+    width: 300px;
+    height: 35px;
+    background-color: wheat;
+    position: relative; top: 3px;
+    margin-left: 45px;
+    margin-bottom: 6px;
+    border-radius: 10px;
+}
+
+#header {
+    font-variant: small-caps;
+    font-size: 27px;
+    font-family: cursive;
+}
+
+#body-div {
+    background-color: wheat;
+    width: 380px;
+    height: 450px;
+    margin-left: 10px;
+    border-radius: 10.5px;
+    margin-top: 9px;
+}
+
+.body-class {
+    /* background-color: black; */
+    margin: 10px;
+    height: 40px;
+}
+
+.input-class {
+    width: 350px;
+    height:30px;
+    margin-top: 5px;
+    
+}
+
+#textarea-div {
+    background-color: black;
+    margin: 10px;
+}
+
+#textarea {
+    width: 350px;
+
+}
+
+#submit {
+    width: 80px;
+    height: 40px;
+    margin-left: 140px;
+    margin-top: 5px;
+    font-weight: bold;
+} 
+
+#submit:hover {
+    background-color: blue;
+}
+
+
+#male-button {
+    width: 30px;
+    height: 20px;
+    margin-top: 10x;
+    margin-left: 15px;
+}
+
+#female-button {
+    width: 30px;
+    height: 20px;
+    margin-left: 15px;
+
+}
